@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: gabonan-restitution-roadmap-and-qsf-trust-execution
-  name: Gabonan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/gabonan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ga_001
+    name: Gabon Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_002
+    name: Gabon Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_003
+    name: Gabon Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_004
+    name: Gabon Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_005
+    name: Gabon Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_006
+    name: Gabon Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_007
+    name: Gabon Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_008
+    name: Gabon Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_009
+    name: Gabon Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_010
+    name: Gabon Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_011
+    name: Gabon Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_012
+    name: Gabon Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_013
+    name: Gabon Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_014
+    name: Gabon Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_015
+    name: Gabon Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_016
+    name: Gabon Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_017
+    name: Gabon Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_018
+    name: Gabon Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_019
+    name: Gabon Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_020
+    name: Gabon Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_021
+    name: Gabon Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_022
+    name: Gabon Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_023
+    name: Gabon Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_024
+    name: Gabon Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_025
+    name: Gabon Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_026
+    name: Gabon Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_027
+    name: Gabon Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_028
+    name: Gabon Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_029
+    name: Gabon Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_030
+    name: Gabon Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_031
+    name: Gabon Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_032
+    name: Gabon Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_033
+    name: Gabon Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_034
+    name: Gabon Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_035
+    name: Gabon Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_036
+    name: Gabon Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_037
+    name: Gabon Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_038
+    name: Gabon Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_039
+    name: Gabon Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_040
+    name: Gabon Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_041
+    name: Gabon Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_042
+    name: Gabon Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_043
+    name: Gabon Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_044
+    name: Gabon Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_045
+    name: Gabon Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_046
+    name: Gabon Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_047
+    name: Gabon Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_048
+    name: Gabon Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_049
+    name: Gabon Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_050
+    name: Gabon Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_051
+    name: Gabon Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_052
+    name: Gabon Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_053
+    name: Gabon Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_054
+    name: Gabon Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_055
+    name: Gabon Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_056
+    name: Gabon Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_057
+    name: Gabon Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_058
+    name: Gabon Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_059
+    name: Gabon Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_060
+    name: Gabon Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_061
+    name: Gabon Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_062
+    name: Gabon Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_063
+    name: Gabon Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_064
+    name: Gabon Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_065
+    name: Gabon Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_066
+    name: Gabon Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_067
+    name: Gabon Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_068
+    name: Gabon Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_069
+    name: Gabon Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_070
+    name: Gabon Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_071
+    name: Gabon Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_072
+    name: Gabon Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_073
+    name: Gabon Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_074
+    name: Gabon Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_075
+    name: Gabon Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_076
+    name: Gabon Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_077
+    name: Gabon Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_078
+    name: Gabon Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_079
+    name: Gabon Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_080
+    name: Gabon Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_081
+    name: Gabon Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_082
+    name: Gabon Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_083
+    name: Gabon Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_084
+    name: Gabon Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_085
+    name: Gabon Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_086
+    name: Gabon Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_087
+    name: Gabon Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_088
+    name: Gabon Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_089
+    name: Gabon Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_090
+    name: Gabon Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_091
+    name: Gabon Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_092
+    name: Gabon Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_093
+    name: Gabon Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_094
+    name: Gabon Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_095
+    name: Gabon Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_096
+    name: Gabon Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_097
+    name: Gabon Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_098
+    name: Gabon Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_099
+    name: Gabon Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_100
+    name: Gabon Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_101
+    name: Gabon Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_102
+    name: Gabon Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_103
+    name: Gabon Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_104
+    name: Gabon Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_105
+    name: Gabon Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_106
+    name: Gabon Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_107
+    name: Gabon Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_108
+    name: Gabon Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_109
+    name: Gabon Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_110
+    name: Gabon Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_111
+    name: Gabon Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_112
+    name: Gabon Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_113
+    name: Gabon Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_114
+    name: Gabon Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_115
+    name: Gabon Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_116
+    name: Gabon Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_117
+    name: Gabon Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_118
+    name: Gabon Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_119
+    name: Gabon Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_120
+    name: Gabon Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_121
+    name: Gabon Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_122
+    name: Gabon Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_123
+    name: Gabon Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_124
+    name: Gabon Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_125
+    name: Gabon Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_126
+    name: Gabon Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_127
+    name: Gabon Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_128
+    name: Gabon Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_129
+    name: Gabon Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_130
+    name: Gabon Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_131
+    name: Gabon Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_132
+    name: Gabon Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_133
+    name: Gabon Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_134
+    name: Gabon Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_135
+    name: Gabon Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_136
+    name: Gabon Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_137
+    name: Gabon Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_138
+    name: Gabon Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_139
+    name: Gabon Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_140
+    name: Gabon Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_141
+    name: Gabon Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_142
+    name: Gabon Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_143
+    name: Gabon Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_144
+    name: Gabon Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_145
+    name: Gabon Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_146
+    name: Gabon Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_147
+    name: Gabon Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_148
+    name: Gabon Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_149
+    name: Gabon Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_150
+    name: Gabon Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_151
+    name: Gabon Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_152
+    name: Gabon Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_153
+    name: Gabon Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_154
+    name: Gabon Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_155
+    name: Gabon Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_156
+    name: Gabon Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_157
+    name: Gabon Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_158
+    name: Gabon Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_159
+    name: Gabon Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_160
+    name: Gabon Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_161
+    name: Gabon Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_162
+    name: Gabon Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_163
+    name: Gabon Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_164
+    name: Gabon Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_165
+    name: Gabon Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_166
+    name: Gabon Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_167
+    name: Gabon Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_168
+    name: Gabon Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_169
+    name: Gabon Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_170
+    name: Gabon Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_171
+    name: Gabon Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_172
+    name: Gabon Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_173
+    name: Gabon Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_174
+    name: Gabon Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_175
+    name: Gabon Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_176
+    name: Gabon Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_177
+    name: Gabon Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_178
+    name: Gabon Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_179
+    name: Gabon Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_180
+    name: Gabon Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_181
+    name: Gabon Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_182
+    name: Gabon Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_183
+    name: Gabon Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_184
+    name: Gabon Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_185
+    name: Gabon Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_186
+    name: Gabon Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_187
+    name: Gabon Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_188
+    name: Gabon Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_189
+    name: Gabon Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_190
+    name: Gabon Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_191
+    name: Gabon Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_192
+    name: Gabon Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_193
+    name: Gabon Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_194
+    name: Gabon Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_195
+    name: Gabon Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_196
+    name: Gabon Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_197
+    name: Gabon Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_198
+    name: Gabon Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_199
+    name: Gabon Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_200
+    name: Gabon Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_201
+    name: Gabon Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_202
+    name: Gabon Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_203
+    name: Gabon Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_204
+    name: Gabon Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_205
+    name: Gabon Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_206
+    name: Gabon Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_207
+    name: Gabon Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_208
+    name: Gabon Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_209
+    name: Gabon Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_210
+    name: Gabon Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_211
+    name: Gabon Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_212
+    name: Gabon Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_213
+    name: Gabon Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_214
+    name: Gabon Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_215
+    name: Gabon Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_216
+    name: Gabon Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_217
+    name: Gabon Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_218
+    name: Gabon Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_219
+    name: Gabon Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_220
+    name: Gabon Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_221
+    name: Gabon Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_222
+    name: Gabon Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_223
+    name: Gabon Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_224
+    name: Gabon Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_225
+    name: Gabon Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_226
+    name: Gabon Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_227
+    name: Gabon Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_228
+    name: Gabon Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_229
+    name: Gabon Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_230
+    name: Gabon Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_231
+    name: Gabon Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_232
+    name: Gabon Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_233
+    name: Gabon Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_234
+    name: Gabon Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_235
+    name: Gabon Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_236
+    name: Gabon Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_237
+    name: Gabon Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_238
+    name: Gabon Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_239
+    name: Gabon Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_240
+    name: Gabon Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_241
+    name: Gabon Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_242
+    name: Gabon Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_243
+    name: Gabon Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_244
+    name: Gabon Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_245
+    name: Gabon Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_246
+    name: Gabon Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_247
+    name: Gabon Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_248
+    name: Gabon Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_249
+    name: Gabon Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_250
+    name: Gabon Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_251
+    name: Gabon Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ga_252
+    name: Gabon Skill 252
+    status: ACTIVE_SCAFFOLD
